@@ -14,7 +14,7 @@
     "recipe[php::default]",
     "recipe[php::php5]",
     "recipe[php::module_apc]",
-    "recipe[php::module_curl2]",
+    "recipe[php::module_curl]",
     "recipe[php::pear]",
     "recipe[php::module_memcached]",
     "recipe[phpunit::default]",
