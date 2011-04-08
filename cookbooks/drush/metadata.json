@@ -1,0 +1,42 @@
+{
+  "suggestions": {
+  },
+  "license": "Apache 2.0",
+  "long_description": "",
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "description": "Installs drush head",
+  "version": "0.9.0",
+  "recipes": {
+    "drush": "Installs drush head"
+  },
+  "maintainer": "Mark Sonnabaum",
+  "attributes": {
+  },
+  "replacing": {
+  },
+  "dependencies": {
+    "php": [
+
+    ]
+  },
+  "platforms": {
+    "debian": [
+
+    ],
+    "arch": [
+
+    ],
+    "ubuntu": [
+
+    ]
+  },
+  "maintainer_email": "mark.sonnabaum@acquia.com",
+  "name": "drush",
+  "groupings": {
+  },
+  "recommendations": {
+  }
+}
